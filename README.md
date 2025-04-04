@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de AmandaILSilva
+## Olá, me chamo AmandaILSilva
 
  <div>
    <a href="https://github.com/AmandaILSilva">
