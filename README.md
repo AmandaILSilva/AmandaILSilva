@@ -1,4 +1,4 @@
-## Olá, me chamo AmandaILSilva
+## Olá, sou Amanda Silva
 
  <div>
    <a href="https://github.com/AmandaILSilva">
